@@ -44,6 +44,21 @@ Implement WorkManager to schedule background data sync.
 Add Unit Tests for ViewModel and Repository.
 Improve UI/UX with animations.
 
+🔥 Crash Reporting
+🖼️ Screenshots of Firebase Crashlytics Console
 ![Screenshot 2025-03-22 080010](https://github.com/user-attachments/assets/68824003-d8fc-4fe2-ab93-1b322b556251)
+
+📊 Firebase Analytics Events
+![Screenshot 2025-03-22 081028](https://github.com/user-attachments/assets/5cc2e02f-9143-45a1-94b0-2bfd37c8a7e2)
+
+
+📱 Mobile Screen Recording of Crash
+
+
+https://github.com/user-attachments/assets/2ad1dc97-8e43-4585-9223-1df94e519490
+
+Chech crash :After click of warning icon 
+
+
 
 
